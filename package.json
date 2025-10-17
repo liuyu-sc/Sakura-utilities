@@ -1,0 +1,19 @@
+{
+  "name": "Sakura Haven Café Utilities",
+  "version": "1.0.0",
+  "description": "Discord bot for Sakura Haven Café related stuff",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["discord", "bot", "shift"],
+  "author": “liuyu#2310",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
