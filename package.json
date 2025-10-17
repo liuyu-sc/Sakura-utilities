@@ -8,7 +8,7 @@
     "dev": "node index.js"
   },
   "keywords": ["discord", "bot", "shift"],
-  "author": “liuyu#2310",
+  "author": "liuyu#2310",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.14.1"
